@@ -1,0 +1,5 @@
+How to Run this code:
+1. Just run the main.py
+2. Inside main.py the function "analysis" function is the one which is supposed to be in production
+3. Give only that function an argument with .wav file of 6 secs(can be changed as require)
+4. The output will be a string dictating an emotion: maybe Happy, Sad, Calm etc. 
